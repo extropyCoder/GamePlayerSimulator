@@ -1,0 +1,5 @@
+[package]
+
+name = "game_player"
+version = "0.0.1"
+authors = [ "laurence@extropy.io" ]
