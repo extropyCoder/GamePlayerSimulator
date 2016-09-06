@@ -31,10 +31,9 @@ fn evaluate_characteristic_function(player : Player)->f64{
 }
 
 fn evaluate_shapley(){
+}
 
-
-
-
+fn get_all_coalations(n : u8) -> Vec<u8>{
 
 }
 
